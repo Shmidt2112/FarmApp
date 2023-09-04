@@ -5,6 +5,10 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{393426DA-2665-409C-8F12-2D59196587D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dal", "Dal\Dal.csproj", "{8BBFAD6B-8F87-4170-A2D9-25BBCDDFCAFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{E4922010-8E1A-482A-A023-D1704CB1B589}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{393426DA-2665-409C-8F12-2D59196587D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{393426DA-2665-409C-8F12-2D59196587D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{393426DA-2665-409C-8F12-2D59196587D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BBFAD6B-8F87-4170-A2D9-25BBCDDFCAFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BBFAD6B-8F87-4170-A2D9-25BBCDDFCAFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BBFAD6B-8F87-4170-A2D9-25BBCDDFCAFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BBFAD6B-8F87-4170-A2D9-25BBCDDFCAFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4922010-8E1A-482A-A023-D1704CB1B589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4922010-8E1A-482A-A023-D1704CB1B589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4922010-8E1A-482A-A023-D1704CB1B589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4922010-8E1A-482A-A023-D1704CB1B589}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

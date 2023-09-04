@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SPLITTER_PROPORTION" value="0.5532967" />
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b269b286-a3e5-4480-8808-981663c20d4f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/farm-app/.eslintrc.base.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/farm-app/e2e/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/farm-app/e2e/playwright.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/farm-app/e2e/project.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/farm-app/e2e/src/example.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/farm-app/project.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/farm-app/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/farm-app/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/farm-app/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/farm-app/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/farm-app/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/farm-app/src/app/app.routes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/farm-app/src/app/components/animal/animal.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/farm-app/src/app/components/animal/animal.resolver.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/farm-app/src/app/components/animal/animals.resolver.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/farm-app/src/app/components/animal/components/animal-list/animal-list.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/farm-app/src/app/components/animal/components/animal-list/animal-list.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/farm-app/src/app/components/animal/components/animal-list/animal-list.components.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/farm-app/src/app/components/animal/components/animal-view/animal-view.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/farm-app/src/app/components/animal/components/animal-view/animal-view.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/farm-app/src/app/components/animal/components/animal-view/animal-view.components.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/farm-app/src/app/components/animal/model/animal.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/farm-app/src/app/components/animal/services/animal.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/farm-app/src/app/components/animal/store/animal.actions.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/farm-app/src/app/components/animal/store/animal.effect.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/farm-app/src/app/components/animal/store/animal.reducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/farm-app/src/app/components/animal/store/animal.selectors.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/farm-app/src/app/interseptors/fake-backend.interceptor.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/farm-app/src/app/store/reducers/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/farm-app/src/app/utils/utils.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/farm-app/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/farm-app/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/farm-app/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/farm-app/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/farm-app/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/farm-app/src/test-setup.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/farm-app/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/farm-app/tsconfig.editor.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/farm-app/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/farm-app/tsconfig.spec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frontend.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frontend.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/farm-app/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/farm-app/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/farm-app/.eslintrc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/farm-app/apps/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/farm-app/apps/farm-app-e2e/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/farm-app/apps/farm-app-e2e/playwright.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/farm-app/apps/farm-app-e2e/project.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/farm-app/apps/farm-app-e2e/src/example.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/farm-app/apps/farm-app/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/farm-app/apps/farm-app/jest.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/farm-app/apps/farm-app/project.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/farm-app/apps/farm-app/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/farm-app/apps/farm-app/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/farm-app/apps/farm-app/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/farm-app/apps/farm-app/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/farm-app/apps/farm-app/src/app/app.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/farm-app/apps/farm-app/src/app/app.routes.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/farm-app/apps/farm-app/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/farm-app/apps/farm-app/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/farm-app/apps/farm-app/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/farm-app/apps/farm-app/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/farm-app/apps/farm-app/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/farm-app/apps/farm-app/src/test-setup.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/farm-app/apps/farm-app/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/farm-app/apps/farm-app/tsconfig.editor.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/farm-app/apps/farm-app/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/farm-app/apps/farm-app/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/farm-app/jest.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/farm-app/jest.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/farm-app/libs/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/farm-app/nx.json" beforeDir="false" afterPath="$PROJECT_DIR$/farm-app/nx.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/farm-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/farm-app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/farm-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/farm-app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/farm-app/tools/tsconfig.tools.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/farm-app/tsconfig.base.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2Uvpxp6ASxuLu4kMgYNPd5EmiTn" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/git/farm-app/frontend/farm-app/src/app",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.sourceCode.TypeScript",
+    "ts.external.directory.path": "D:\\git\\farm-app\\frontend\\farm-app\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\git\farm-app\frontend\farm-app\src\app" />
+      <recent name="D:\git\farm-app\frontend\farm-app\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b269b286-a3e5-4480-8808-981663c20d4f" name="Changes" comment="" />
+      <created>1693830158274</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693830158274</updated>
+      <workItem from="1693830160244" duration="8466000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

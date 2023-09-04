@@ -1,0 +1,22 @@
+version: '3'
+services:
+  angular-app:
+    image: angular-farm-app-image
+    build:
+      context: ./frontend/farm-angular-app
+      dockerfile: Dockerfile
+    ports:
+      - "4200:80" 
+    networks:
+      - app-network
+  dotnet-core-app:
+    image: dotnet-core-farm-app-image
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    ports:
+      - "5050:80"
+    networks:
+      - app-network
+networks:
+  app-network:

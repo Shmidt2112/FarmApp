@@ -1,0 +1,53 @@
+# Ignore the bin and obj directories
+**/bin/
+**/obj/
+
+# Ignore user-specific files and settings
+.vscode/
+.idea/
+*.suo
+*.user
+*.sln.docstates
+*.userprefs
+
+# Ignore NuGet packages
+/packages/
+*.nupkg
+
+# Ignore Visual Studio files
+*.suo
+*.user
+*.sln.docstates
+*.userprefs
+
+# Ignore Rider files
+.idea/
+
+# Ignore .NET Core artifacts
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Ignore Visual Studio Code directories
+.vscode/
+
+# Ignore .NET Core and Rider directories
+bin/
+obj/
+.idea/
+.vscode/
+
+# Ignore .NET Core tools directory
+.toolstarget/
+
+# Ignore .NET Core .vscode settings
+.vscode/settings.json
+
+# Ignore .NET Core Visual Studio Code launch
+.vscode/launch.json
+
+# Ignore Rider files
+.idea/
+
+# Ignore Rider .sln.iml file
+*.sln.iml

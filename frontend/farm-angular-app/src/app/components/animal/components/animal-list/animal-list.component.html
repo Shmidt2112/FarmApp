@@ -1,0 +1,18 @@
+<div>
+    <table class="table">
+      <thead>
+        <tr>
+          <th scope="col">Name</th>
+          <th scope="col" class="col-1">Operations</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let animal of animals$ | async">
+          <td>{{ animal.name }}</td>
+          <td>
+            <button (click)="deleteAnimal(animal.id)" class="btn btn-danger">Delete</button>
+          </td>
+        </tr>
+      </tbody>
+    </table> 
+  </div>

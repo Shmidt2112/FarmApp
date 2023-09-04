@@ -1,0 +1,20 @@
+<form [formGroup]="form" (ngSubmit)="onSubmit()">
+    <ng-container *ngrxLet="errors$ as errors">
+        <div class="form-group">
+            <label for="name">Animal Name</label>
+            <input
+                    type="text"
+                    name="name"
+                    class="form-control"
+                    formControlName="name"
+                    [ngClass]="{ 'is-invalid': !!errors  }"
+            >
+        </div>
+        <div class="invalid-feedback">
+            <ul>
+                <li *ngFor="let error of errors">{{ error }}</li>
+          </ul>
+      </div>
+      <button [disabled]="form.invalid" class="btn btn-primary mt-2" type="submit">Create</button>
+  </ng-container>
+</form>
